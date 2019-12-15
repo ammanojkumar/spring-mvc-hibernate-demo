@@ -1,0 +1,22 @@
+/*
+ * @author a.m.manojkumar@gmail.com
+ * @category Learning
+ * @since May 2019
+ */
+
+Requirement to run this application,
+1. Java 7
+2. Tomcat 
+3. Derby database (download squirrel sql)
+4. run the script.sql - create LOGIN_USER table. STUDENT table creates when app starts
+
+This is spring MVC application which has,
+1. Hibernate configuration
+2. Spring security
+3. Spring exception handling
+4. Rest service with ModelAndView
+5. Cache and property place holder
+6. Log4j
+
+7. AOP - yet to be
+8. Junit - yet to be
